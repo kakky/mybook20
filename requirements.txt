@@ -1,0 +1,5 @@
+Django==2.0.1
+# Djangoの依存で以下が入る
+# pytz==2017.3
+
+django-bootstrap4==0.0.5
